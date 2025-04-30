@@ -139,8 +139,8 @@ flutter run
 
 ## 👨‍💻 Developer
 
-- **Name:** *(Your Name)*
-- **Email:** *(Your Email)*
+- **Name:** *Yash Patel*
+- **Email:** *22it122@charusat.edu.in*
 
 ---
 
